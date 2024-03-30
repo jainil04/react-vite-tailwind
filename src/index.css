@@ -1,0 +1,15 @@
+/*
+  Using tailwind
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  common styles
+*/
+
+* {
+  scroll-behavior: smooth;
+}
